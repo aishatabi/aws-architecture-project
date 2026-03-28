@@ -43,7 +43,7 @@ The architecture consists of:
 - Created and hosted a custom HTML page  
 
 👉 **Live Site:**  
-http://18.133.239.42 
+https://18.133.239.42 
 
 ---
 
