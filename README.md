@@ -100,14 +100,19 @@ SSH protocol v.1 not supported
 
 ## 🧠 What I Learned
 
-- How to design secure cloud networks
-- How routing and internet gateways work
-- How to deploy and manage EC2 instances
-- Basics of cloud security and isolation
+- How to build a custom VPC and divide it into public and private subnets
+- How route tables and internet gateways control internet access
+- How to launch and configure EC2 instances in different subnets
+- How security groups control inbound access to cloud resources
+- How to install and run a web server on a Linux-based EC2 instance
+- How to troubleshoot common cloud issues such as SSH connection errors and missing services
 
 ---
 
 ## 🔥 Next Steps
 
-- Automate using Terraform
-- Add CI/CD pipeline
+- Automate the infrastructure using Terraform
+- Add a CI/CD pipeline for faster deployments
+- Improve the website frontend with a more polished design
+- Add load balancing and auto-scaling for better availability
+- Store the project code and documentation in a structured GitHub repository
