@@ -87,9 +87,11 @@ SSH protocol v.1 not supported
 
 ### Route Table
 ![Route Table](images/route.png)
+![Route Table](images/route2.png)
 
 ### EC2 Instances
-![EC2](images/ec2.png)
+![EC2](images/ec2public.png)
+![EC2](images/ec2private.png)
 
 ### Live Website
 ![Website](images/site.png)
